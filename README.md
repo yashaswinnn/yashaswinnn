@@ -1,5 +1,5 @@
 <!--Banner-->
-![yashaswinnn Banner Image](./banner.png)
+![yashaswinnn Banner Image](./navbanner.png)
 
 <!--Night Owl image-->
 <div>
